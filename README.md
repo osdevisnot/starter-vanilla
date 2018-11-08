@@ -1,5 +1,7 @@
 # starter-vanilla
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/osdevisnot/starter-vanilla.svg)](https://greenkeeper.io/)
+
 This project is a starter for vanilla applications using parcel bundler. To use this starter, ensure you have `degit` installed.
 
 ```
